@@ -1,7 +1,9 @@
 # jetty-simple-app
 Demponstration of simple web application by using jetty framework.
 
-Note: For building this project you will need <b>Apache maven</b>
+Note: 
+  - For building this project you will need <b>Apache maven</b>
+  - For testing use next login/password - <i><b>admin</b>/<b>password</b></i> 
 
 Installation and startup:
 1. Install Apache maven (tested on version 3.5.0)
